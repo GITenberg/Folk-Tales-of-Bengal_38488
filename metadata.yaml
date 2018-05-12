@@ -1,0 +1,46 @@
+_repo: Folk-Tales-of-Bengal_38488
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Goble, Warwick
+    birthdate: 1862
+    deathdate: 1943
+    gutenberg_agent_id: '25683'
+    url: http://www.gutenberg.org/2009/agents/25683
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Day, Lal Behari
+    aliases:
+    - De, Lal Behari
+    - Lal Behari Day
+    birthdate: 1826
+    deathdate: 1894
+    gutenberg_agent_id: '39493'
+    url: http://www.gutenberg.org/2009/agents/39493
+description: ''
+gutenberg_issued: '2012-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38488'
+  lccn: '96910433'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bengali (South Asian people) -- Folklore'
+- !lcsh 'Tales -- India -- Bengal'
+- !lcc 'GR'
+tableOfContents: Life's secret -- Phakir Chand -- The indigent Brahman -- The story
+  of the Rakshasas -- The story of Swet-Basanta -- The evil eye of Sani -- The boy
+  whom seven mothers suckled -- The story of Prince Sobur -- The origin of opium --
+  Strike but hear -- The adventures of two thieves and of their sons -- The Ghost-Brahman
+  -- The man who wished to be perfect -- A ghostly wife -- The story of a Brahmadaitya
+  -- The story of a Hiraman -- The origin of rubies -- The match-making jackal --
+  The boy with the moon on his forehead -- The ghost who was afraid of being bagged
+  -- The field of bones -- The bald wife.
+title: Folk-Tales of Bengal
+url: http://www.gutenberg.org/ebooks/38488
